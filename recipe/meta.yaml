@@ -26,7 +26,7 @@ requirements:
     - python
     - aiohttp >=3.7.4.post0
     - eth-abi >=6.0.0
-    - eth-account >=0.14
+    - eth-account >=0.14.0
     - eth-hash[pycryptodome] >=0.5.1
     - eth-typing >=5.0.0
     - eth-utils >=5.3.0
