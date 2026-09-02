@@ -35,7 +35,7 @@ requirements:
     - pyunormalize >=15.0.0
     - pywin32 >=223  # [win]
     - requests >=2.23.0
-    - typing-extensions >=4.0.1. # [ python_version < 3.11 ]
+    - typing-extensions >=4.0.1 # [ python_version < 3.11 ]
     - websockets >=14.0.0
 
 test:
